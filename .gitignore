@@ -3,3 +3,4 @@ venv/
 dataset/
 dataset.zip
 **/*.ipynb_checkpoints/
+push.sh
