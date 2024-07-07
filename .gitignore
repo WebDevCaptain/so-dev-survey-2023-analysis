@@ -1,0 +1,5 @@
+.DS_Store
+venv/
+dataset/
+dataset.zip
+**/*.ipynb_checkpoints/
